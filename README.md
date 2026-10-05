@@ -40,4 +40,4 @@ Doctors in Pakistan spend hours writing clinical notes in English while speaking
 
 **Aizaz Ahmad** — AI Developer & Agentic SaaS Product Designer
 - GitHub: [aizaz-ahmad-ims](https://github.com/aizaz-ahmad-ims)
-- LinkedIn: [add your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/aizazahmadims
